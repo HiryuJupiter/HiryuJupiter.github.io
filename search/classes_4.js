@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['editorstuff_70',['EditorStuff',['../d7/da3/class_editor_stuff.html',1,'']]],
-  ['examplerunnable_71',['ExampleRunnable',['../d7/d56/class_tafe_diploma_framework_1_1_example_runnable.html',1,'TafeDiplomaFramework']]]
+  ['enemyship_173',['EnemyShip',['../d0/d90/class_hiryu_t_k_1_1_asteroids_top_down_controller_1_1_enemy_1_1_enemy_ship.html',1,'HiryuTK::AsteroidsTopDownController::Enemy']]]
 ];

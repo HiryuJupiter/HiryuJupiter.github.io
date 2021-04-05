@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['ipoolable_74',['IPoolable',['../d4/dc9/interface_i_poolable.html',1,'']]],
-  ['irunnables_5farchive_75',['IRunnables_archive',['../d6/dde/interface_tafe_diploma_framework_1_1_i_runnables__archive.html',1,'TafeDiplomaFramework']]]
+  ['gamedata_175',['GameData',['../d1/d40/class_hiryu_t_k_1_1_game_room_service_1_1_game_data.html',1,'HiryuTK::GameRoomService']]],
+  ['gameinput_176',['GameInput',['../dd/da4/class_hiryu_t_k_1_1_asteroids_top_down_controller_1_1_game_input.html',1,'HiryuTK::AsteroidsTopDownController']]]
 ];

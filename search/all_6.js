@@ -1,6 +1,10 @@
 var searchData=
 [
-  ['getswipe_16',['GetSwipe',['../d2/d9a/class_tafe_diploma_framework_1_1_mobile_1_1_mobile_input.html#afd35cba2fe37184fba62f363aecb85f5',1,'TafeDiplomaFramework.Mobile.MobileInput.GetSwipe()'],['../d4/d7d/class_swipe_input_in_class.html#a02479a4b8bd288b1627e312fa4a14ccf',1,'SwipeInputInClass.GetSwipe()']]],
-  ['guimanager_17',['GUIManager',['../df/d7e/class_g_u_i_manager.html',1,'']]],
-  ['guisizepingpong_18',['GUISizePingPong',['../d2/d7e/class_g_u_i_size_ping_pong.html',1,'']]]
+  ['gamedata_54',['GameData',['../d1/d40/class_hiryu_t_k_1_1_game_room_service_1_1_game_data.html',1,'HiryuTK::GameRoomService']]],
+  ['gameinput_55',['GameInput',['../dd/da4/class_hiryu_t_k_1_1_asteroids_top_down_controller_1_1_game_input.html',1,'HiryuTK::AsteroidsTopDownController']]],
+  ['gamephase_56',['GamePhase',['../de/d20/namespace_hiryu_t_k_1_1_game_room_service.html#a36b8750589e3fd4ed227af902f6bbb98',1,'HiryuTK::GameRoomService']]],
+  ['getarrowstring_57',['GetArrowString',['../d4/d20/class_hiryu_t_k_1_1_game_room_service_1_1_d_d_r.html#abdf5c74d9439ab969a6763cd3f4f8fc5',1,'HiryuTK::GameRoomService::DDR']]],
+  ['getbulletfiringposition_58',['GetBulletFiringPosition',['../dc/d3c/class_hiryu_t_k_1_1_game_room_service_1_1_combat.html#a2b6a5b6a6277862ea63ebdfe05ee0ac7',1,'HiryuTK::GameRoomService::Combat']]],
+  ['getp1portrait_59',['GetP1Portrait',['../d9/dac/class_hiryu_t_k_1_1_game_room_service_1_1_combat_util.html#ae00cd9ec4d768bbf8b287c7c20e6258d',1,'HiryuTK::GameRoomService::CombatUtil']]],
+  ['getp2ortrait_60',['GetP2ortrait',['../d9/dac/class_hiryu_t_k_1_1_game_room_service_1_1_combat_util.html#a996383281968de692a2367b87d8a8331',1,'HiryuTK::GameRoomService::CombatUtil']]]
 ];

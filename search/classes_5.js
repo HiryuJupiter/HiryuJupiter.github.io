@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['guimanager_72',['GUIManager',['../df/d7e/class_g_u_i_manager.html',1,'']]],
-  ['guisizepingpong_73',['GUISizePingPong',['../d2/d7e/class_g_u_i_size_ping_pong.html',1,'']]]
+  ['frontdesk_174',['FrontDesk',['../d0/d31/class_hiryu_t_k_1_1_game_room_service_1_1_front_desk.html',1,'HiryuTK::GameRoomService']]]
 ];
